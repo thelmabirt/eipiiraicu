@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaighohxi.darkcloud.dk/sitemap.xml
